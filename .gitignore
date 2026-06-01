@@ -1,0 +1,22 @@
+# Build directories
+build/
+out/
+bin/
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# Compiled binaries and objects
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
